@@ -22,6 +22,9 @@ public class NumberGuessingGame
 					{
 						counter++;
 					}
+					
+					// Test
+					
 
 				boolean stillGuessing = true;
 
